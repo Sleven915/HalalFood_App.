@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431561893779",
+    "project_id": "halalapp2026",
+    "storage_bucket": "halalapp2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431561893779:android:5947e0cf728a1d4e0daa66",
+        "android_client_info": {
+          "package_name": "com.example.halalfoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-W035d7-RQvgvLz_PIb1L8DAsXeQblAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
